@@ -1,2 +1,2 @@
-# Super-Bot
+# Super.bot
 Useful discord bot API
